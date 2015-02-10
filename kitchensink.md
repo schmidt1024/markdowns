@@ -11,6 +11,8 @@
 - Aenean commodo ligula eget dolor
 - Aenean massa
 
+    return shell_exec("echo $input | $markdown_script");
+
 > ## This is a header.
 > 
 > 1.   This is the first list item.
