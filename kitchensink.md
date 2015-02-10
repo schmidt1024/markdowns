@@ -6,13 +6,12 @@
 
 > "I blame no one," returned Phileas Fogg, with perfect calmness.  "Go!" Passepartout left the room, and went to find Aouda, to whom he delivered his master's message. "Madam," he added, "I can do nothing myself&mdash;nothing!  I have no influence over my master; but you, perhaps&mdash;" "What influence could I have?" replied Aouda.  "Mr. Fogg is influenced by no one.  Has he ever understood that my gratitude to him is overflowing?  Has he ever read my heart?
 
+    return shell_exec("echo $input | $markdown_script");
+
 - Lorem ipsum dolor sit amet
 - consectetuer adipiscing elit
 - Aenean commodo ligula eget dolor
 - Aenean massa
-
-
-    return shell_exec("echo $input | $markdown_script");
 
 > ## This is a header.
 > 
